@@ -1,0 +1,181 @@
+[en-us]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand is a modern, efficient Docker management application providing real-time container management, Compose stack orchestration, and multi-environment support. All in a lightweight, secure and privacy-focused package."
+release_note = "Bundles Dockhand v1.0.56 from official Docker Hub"
+important    = "Protect the WebUI with username and password"
+
+[de-de]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand ist eine moderne, effiziente Docker-Verwaltungsanwendung mit Echtzeit-Container-Verwaltung, Compose-Stack-Orchestrierung und Unterstützung für mehrere Umgebungen. Alles in einem leichten, sicheren und datenschutzorientierten Paket."
+release_note = "Bündelt Dockhand v1.0.56 vom offiziellen Docker Hub"
+important    = "Schützen Sie die Web-Benutzeroberfläche mit einem Benutzernamen und Passwort"
+
+[es-es]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand es una aplicación de gestión de Docker moderna y eficiente que ofrece gestión de contenedores en tiempo real, orquestación de stacks Compose y soporte para múltiples entornos. Todo en un paquete ligero, seguro y centrado en la privacidad."
+release_note = "Incluye Dockhand v1.0.56 del Docker Hub oficial"
+important    = "Proteja la interfaz web (WebUI) con un nombre de usuario y contraseña"
+
+[fr-fr]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand est une application de gestion Docker moderne et efficace offrant la gestion des conteneurs en temps réel, l'orchestration de stacks Compose et la prise en charge multi-environnements. Le tout dans un ensemble léger, sécurisé et respectueux de la vie privée."
+release_note = "Intègre Dockhand v1.0.56 depuis le Docker Hub officiel"
+important    = "Protégez l'interface Web (WebUI) avec un nom d'utilisateur et un mot de passe"
+
+[hu-hu]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "A Dockhand egy modern, hatékony Docker-kezelő alkalmazás, amely valós idejű konténerkezelést, Compose stack orchesztrációt és többkörnyezetes támogatást nyújt. Mindezt egy könnyű, biztonságos és adatvédelemre összpontosító csomagban."
+release_note = "A hivatalos Docker Hub-ról származó Dockhand v1.0.56 verziót tartalmazza"
+important    = "Védje a WebUI-t felhasználónévvel és jelszóval"
+
+[it-it]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand è un'applicazione di gestione Docker moderna ed efficiente che offre gestione dei container in tempo reale, orchestrazione di stack Compose e supporto multi-ambiente. Il tutto in un pacchetto leggero, sicuro e orientato alla privacy."
+release_note = "Include Dockhand v1.0.56 dal Docker Hub ufficiale"
+important    = "Proteggi la WebUI con un nome utente e una password"
+
+[ja-jp]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhandは、リアルタイムのコンテナ管理、Composeスタックのオーケストレーション、マルチ環境サポートを提供する、モダンで効率的なDocker管理アプリケーションです。軽量でセキュア、プライバシー重視のパッケージにすべて収められています。"
+release_note = "公式Docker HubのDockhand v1.0.56をバンドル"
+important    = "WebUIをユーザー名とパスワードで保護してください"
+
+[ko-kr]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand는 실시간 컨테이너 관리, Compose 스택 오케스트레이션 및 다중 환경 지원을 제공하는 현대적이고 효율적인 Docker 관리 애플리케이션입니다. 가볍고 안전하며 개인정보 보호에 중점을 둔 패키지로 제공됩니다."
+release_note = "공식 Docker Hub의 Dockhand v1.0.56 번들 포함"
+important    = "사용자 이름과 비밀번호로 WebUI를 보호하세요"
+
+[pl-pl]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand to nowoczesna i wydajna aplikacja do zarządzania Dockerem, oferująca zarządzanie kontenerami w czasie rzeczywistym, orkiestrację stosów Compose oraz obsługę wielu środowisk. Wszystko w lekkim, bezpiecznym i dbającym o prywatność pakiecie."
+release_note = "Zawiera Dockhand v1.0.56 z oficjalnego Docker Hub"
+important    = "Zabezpiecz interfejs WebUI nazwą użytkownika i hasłem"
+
+[pt-pt]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "O Dockhand é uma aplicação de gestão Docker moderna e eficiente, que oferece gestão de contentores em tempo real, orquestração de stacks Compose e suporte para múltiplos ambientes. Tudo num pacote leve, seguro e focado na privacidade."
+release_note = "Inclui o Dockhand v1.0.56 do Docker Hub oficial"
+important    = "Proteja a WebUI com um nome de utilizador e palavra-passe"
+
+[ru-ru]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand — это современное и эффективное приложение для управления Docker, обеспечивающее управление контейнерами в реальном времени, оркестрацию стеков Compose и поддержку нескольких сред. Все это в легком, безопасном и конфиденциальном пакете."
+release_note = "Включает Dockhand v1.0.56 из официального Docker Hub"
+important    = "Защитите веб-интерфейс (WebUI) с помощью имени пользователя и пароля"
+
+[tr-tr]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand, gerçek zamanlı konteyner yönetimi, Compose yığın orkestrasyonu ve çoklu ortam desteği sunan modern ve verimli bir Docker yönetim uygulamasıdır. Hepsi hafif, güvenli ve gizlilik odaklı bir pakette bir araya getirilmiştir."
+release_note = "Resmi Docker Hub'dan Dockhand v1.0.56 sürümünü içerir"
+important    = "WebUI'ı bir kullanıcı adı ve parola ile koruyun"
+
+[zh-cn]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand 是一款现代、高效的 Docker 管理应用程序，提供实时容器管理、Compose 堆栈编排和多环境支持。一切尽在一个轻量、安全且注重隐私的软件包中。"
+release_note = "打包来自官方 Docker Hub 的 Dockhand v1.0.56"
+important    = "请使用用户名和密码保护 WebUI"
+
+[zh-hk]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand 是一款現代、高效的 Docker 管理應用程式，提供即時容器管理、Compose 堆疊編排和多環境支援。一切盡在一個輕量、安全且注重私隱的軟件包中。"
+release_note = "打包來自官方 Docker Hub 的 Dockhand v1.0.56"
+important    = "請使用用戶名和密碼保護 WebUI"
+
+[cs-cz]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand je moderní a efektivní aplikace pro správu Dockeru, která poskytuje správu kontejnerů v reálném čase, orchestraci Compose stacků a podporu více prostředí. Vše v lehkém, bezpečném balíčku zaměřeném na soukromí."
+release_note = "Obsahuje Dockhand v1.0.56 z oficiálního Docker Hubu"
+important    = "Chraňte WebUI uživatelským jménem a heslem"
+
+[da-dk]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand er et moderne og effektivt Docker-styringsprogram, der tilbyder containerstyring i realtid, Compose stack-orkestrering og support til flere miljøer. Alt sammen i en let, sikker og privatlivsfokuseret pakke."
+release_note = "Indeholder Dockhand v1.0.56 fra det officielle Docker Hub"
+important    = "Beskyt WebUI med et brugernavn og en adgangskode"
+
+[nl-nl]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand is een moderne, efficiënte Docker-beheerapplicatie die realtime containerbeheer, Compose stack-orkestratie en ondersteuning voor meerdere omgevingen biedt. Alles in een lichtgewicht, veilig en op privacy gericht pakket."
+release_note = "Bevat Dockhand v1.0.56 van de officiële Docker Hub"
+important    = "Bescherm de WebUI met een gebruikersnaam en wachtwoord"
+
+[nb-no]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand er et moderne og effektivt Docker-styringsprogram som gir sanntids containerstyring, Compose stack-orkestrering og støtte for flere miljøer. Alt i en lett, sikker og personvernfokusert pakke."
+release_note = "Inneholder Dockhand v1.0.56 fra offisiell Docker Hub"
+important    = "Beskytt WebUI med brukernavn og passord"
+
+[sv-se]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand är ett modernt och effektivt Docker-hanteringsprogram som erbjuder containerhantering i realtid, Compose stack-orkestrering och stöd för flera miljöer. Allt i ett lättviktigt, säkert och integritetsfokuserat paket."
+release_note = "Innehåller Dockhand v1.0.56 från officiella Docker Hub"
+important    = "Skydda WebUI med användarnamn och lösenord"
+
+[el-gr]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "To Dockhand είναι μια σύγχρονη και αποτελεσματική εφαρμογή διαχείρισης Docker που παρέχει διαχείριση κοντέινερ σε πραγματικό χρόνο, ενορχήστρωση Compose stacks και υποστήριξη πολλαπλών περιβαλλόντων. Όλα σε ένα ελαφρύ, ασφαλές πακέτο με εστίαση στην ιδιωτικότητα."
+release_note = "Περιλαμβάνει το Dockhand v1.0.56 από το επίσημο Docker Hub"
+important    = "Προστατέψτε το WebUI με όνομα χρήστη και κωδικό πρόσβασης"
+
+[ro-ro]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand este o aplicație modernă și eficientă de gestionare Docker, care oferă administrare în timp real a containerelor, orchestrare a stivelor Compose și suport pentru medii multiple. Totul într-un pachet ușor, sigur și axat pe confidențialitate."
+release_note = "Include Dockhand v1.0.56 din Docker Hub oficial"
+important    = "Protejați interfața WebUI cu un nume de utilizator și o parolă"
+
+[th-th]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand เป็นแอปพลิเคชันจัดการ Docker ที่ทันสมัยและมีประสิทธิภาพ ให้การจัดการคอนเทนเนอร์แบบเรียลไทม์ จัดการ Compose stack และรองรับหลายสภาพแวดล้อม ทั้งหมดรวมอยู่ในแพ็กเกจที่เบา ปลอดภัย และเน้นความเป็นส่วนตัว"
+release_note = "รวม Dockhand v1.0.56 จาก Docker Hub ใหม่อย่างเป็นทางการ"
+important    = "โปรดปกป้อง WebUI ด้วยชื่อผู้ใช้และรหัสผ่าน"
+
+[vi-vn]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand là một ứng dụng quản lý Docker hiện đại, hiệu quả, cung cấp khả năng quản lý container theo thời gian thực, điều phối stack Compose và hỗ trợ nhiều môi trường. Tất cả trong một gói nhẹ, an toàn và chú trọng đến quyền riêng tư."
+release_note = "Đóng gói Dockhand v1.0.56 từ Docker Hub chính thức"
+important    = "Hãy bảo vệ WebUI bằng tên người dùng và mật khẩu"
+
+[id-id]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand adalah aplikasi manajemen Docker modern dan efisien yang menyediakan manajemen kontainer secara real-time, orkestrasi stack Compose, dan dukungan multi-lingkungan. Semuanya dalam paket yang ringan, aman, dan berfokus pada privasi."
+release_note = "Bundel Dockhand v1.0.56 dari Docker Hub resmi"
+important    = "Lindungi WebUI dengan nama pengguna dan kata sandi"
+
+[ar-sa]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand هو تطبيق إدارة Docker حديث وفعال يوفر إدارة الحاويات في الوقت الفعلي، وتنسيق مكدسات Compose، ودعم بيئات متعددة. كل ذلك في حزمة خفيفة الوزن وآمنة وتركز على الخصوصية."
+release_note = "يتضمن Dockhand v1.0.56 من Docker Hub الرسمي"
+important    = "قم بحماية واجهة المستخدم (WebUI) باسم المستخدم وكلمة المرور"
+
+[he-il]
+name = "Dockhand-docker"
+auth = "Dockhand"
+descript = "Dockhand היא אפליקציית ניהול Docker מודרנית ויעילה המספקת ניהול קונטיינרים בזמן אמת, תזמור סטאקים של Compose ותמיכה בסביבות מרובות. הכל בחבילה קלת משקל, מאובטחת ומתמקדת בפרטיות."
+release_note = "כולל את Dockhand v1.0.56 מ-Docker Hub הרשמי"
+important    = "יש להגן על ה-WebUI באמצעות שם משתמש וסיסמה"
