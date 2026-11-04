@@ -32,8 +32,7 @@ To ensure configuration files, application databases, and Docker Compose stacks 
 
 | Host Path | Container Target Path | Purpose | 
 | ----- | ----- | ----- | 
-| `/Volume1/DockerAppData/Dockhand-docker` | `/app/data` | Application configuration, database, and local settings | 
-| `/Volume1/DockerAppData/Dockhand-docker/stacks` | `/Volume1/DockerAppData/Dockhand-docker/stacks` | Docker Compose stack YAML files and project directories | 
+| `/Volume1/DockerAppData/Dockhand-docker/data` | `/app/data` | Application configuration, database, and local settings | 
 
 ## 4. Docker Socket Binding
 
